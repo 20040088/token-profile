@@ -1,0 +1,17 @@
+{
+  "symbol": "ACC",
+  "address": "0x9a251DAa6382C373594c8F8275752921eC2550c8",
+  "overview":{
+        "en": "ACC is the governance token for Asymmetry Crypto Capital, an Decentralized Asset Management DAO on the Ethereum blockchain.",
+        "zh": ""
+  },
+  "website": "https://app.enzyme.finance/vault/0xd618b03c7a1c0f3248ae049954d69e8d96a142c0",
+  "state": "NORMAL",
+  "published_on": "2022-03-28",
+  "initial_price":{
+        "USD":"0.01 USD",
+  },
+  "links": {
+    "twitter": "https://twitter.com/chenjianhui_eth",
+  }
+}
